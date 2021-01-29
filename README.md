@@ -30,7 +30,7 @@ Example Response
     '_source': {'caption': 'Cars',
      'genres': ['animation', 'comedy', 'family', 'sport'
                     ],
-     'imageUrl': 'https: //m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg',
+     'imageUrl': 'xxx',
      'imdb_id': 'tt0317219',
      'rating': 7.1,
      'title': 'Cars',
