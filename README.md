@@ -1,7 +1,7 @@
 # Elasticsearch Movie API
 Search  API powered by [Elasticsearch](https://github.com/elastic/elasticsearch) for people who want to try out Elasticsearch
 
-![alt](https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg)
+<img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg" width="200" height="100">
 
 Test my API
 ```python
