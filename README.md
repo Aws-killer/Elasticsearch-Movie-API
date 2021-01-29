@@ -22,19 +22,29 @@ es.search_template(index=es_index_name, body=body)
 ```
 Example Response
 ```json
-{'_shards': {'failed': 0, 'skipped': 0, 'successful': 1, 'total': 1},
- 'hits': {'hits': [{'_id': '2835',
+{'_shards': {'failed': 0, 'skipped': 0, 'successful': 1, 'total': 1
+    },
+ 'hits': {'hits': [
+            {'_id': '2835',
     '_index': 'telegram_media',
     '_score': 7.2320805,
     '_source': {'caption': 'Cars',
-     'genres': ['animation', 'comedy', 'family', 'sport'],
-     'imageUrl': 'https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg',
+     'genres': ['animation', 'comedy', 'family', 'sport'
+                    ],
+     'imageUrl': 'https: //m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg',
      'imdb_id': 'tt0317219',
      'rating': 7.1,
      'title': 'Cars',
-     'type': 'movie'},
+     'type': 'movie'
+                },
     '_type': '_doc',
-    'sort': [7.2320805, -9223372036854775808, 'Cars']},
+    'sort': [
+                    7.2320805,
+                    -9223372036854775808, 'Cars'
+                ]
+            }
+        }
+    }
 
 ```
 Field Definition
