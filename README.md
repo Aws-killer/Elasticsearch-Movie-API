@@ -21,7 +21,7 @@ body = {"id": "default_search", "params": {"search_term": search_term}}
 es.search_template(index=es_index_name, body=body)
 ```
 Example Response
-```json
+```js
 {'_shards': {'failed': 0, 'skipped': 0, 'successful': 1, 'total': 1
     },
  'hits': {'hits': [
